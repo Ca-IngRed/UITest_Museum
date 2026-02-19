@@ -1,0 +1,20 @@
+@startuml
+component "App" as App
+component "Login" as Login
+component "Lista de Galerías" as ListaGalerias
+component "Galería" as Galeria
+component "Perfil" as Perfil
+component "Formulario de Solicitud" as Formulario
+component "Barra de Navegación" as BarraNav
+
+App --> Login
+App --> ListaGalerias
+App --> Galeria
+App --> Perfil
+
+ListaGalerias --> BarraNav
+Galeria --> BarraNav
+Perfil --> BarraNav
+Login --> Formulario
+Formulario --> Login
+@enduml
