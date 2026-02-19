@@ -16,13 +16,13 @@ design
 └─────Design.md (Cotienen diagramas de especificaciones de diseño uno hecho a mano y otro extraido de figma)  
   
 docs
-|  └──Componentes    (Contiene recursos explicativos sobre los elementos usados en el diseño de la App)
+|  └──Componentes (Contiene recursos explicativos sobre los elementos usados en el diseño de la App)
 |        ├──Componentes.png
 |        ├──PaletaYCOdigosDecolores.png
 |        └──Tipografia.png
 ├─────Casos de estudio.md (contiene los casos de estudio o "historias")
 ├─────Decisiones.md (se explica el motivo por el que la aplicacion se hizo de cierta forma)
-├─────DiagramaDeComponoentes.puml (Diagrama de componentes de la App)
+├─────DiagramaDeComponentes.puml (Diagrama de componentes de la App)
 ├─────DiagramaDeNavegacion.puml (Diagrama de navegacion de la App)
 └─────GuiaDeEstilos.md
 
