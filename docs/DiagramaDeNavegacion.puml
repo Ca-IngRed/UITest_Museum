@@ -1,0 +1,34 @@
+@startuml
+[*] --> Login
+
+Login --> Lista_D_Galerias : "Botón Ingresar"
+Login --> Lista_D_Galerias : "Botón Huella"
+Login --> Formulario : "Boton Estoy interesado en una visita como institucion"
+
+Lista_D_Galerias --> Galeria : "Boton Galeria"
+Lista_D_Galerias --> Perfil  : "Boton Perfil"
+Lista_D_Galerias --> Login   : "Boton Salir"
+
+Galeria --> Perfil           : "Boton Perfil"
+Galeria --> Lista_D_Galerias : "Boton Inicio"
+Galeria --> Lista_D_Galerias : "Volver"
+Galeria --> Login            : "Boton Salir"
+
+Perfil --> Login             : "Boton Salir"
+Perfil --> Lista_D_Galerias  : "Boton Inicio"
+
+Formulario --> Login : "Boton Enviar Solicitud"
+
+note right of Galeria
+El botón "Volver" en esta pantalla retorna
+a la última pantalla visitada
+según el contexto de navegación
+end note
+
+note right of Perfil
+El botón "Volver" en esta pantalla retorna
+a la última pantalla visitada
+según el contexto de navegación
+end note
+
+@enduml
