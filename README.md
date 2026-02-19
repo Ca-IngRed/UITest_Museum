@@ -26,11 +26,11 @@ docs
 ├─────DiagramaDeNavegacion.puml (Diagrama de navegacion de la App)
 └─────GuiaDeEstilos.md
 
-  wireframe
-  |  └──Recursos (Contiene los bocetos Wireframe desde los que partio la App)
-  |      ├──Boceto_Wireframe.png
-  |      └──Boceto_Wireframe_2.png
-  └─────wireframes.md (Contiene los bocetos de la App )
+wireframe
+|  └──Recursos (Contiene los bocetos Wireframe desde los que partio la App)
+|      ├──Boceto_Wireframe.png
+|      └──Boceto_Wireframe_2.png
+└─────wireframes.md (Contiene los bocetos de la App )
   
 ```
 
