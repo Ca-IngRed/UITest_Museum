@@ -16,7 +16,7 @@ design
 └─────Design.md (Cotienen diagramas de especificaciones de diseño uno hecho a mano y otro extraido de figma)  
   
 docs
-|  ├──Componentes    (Contiene recursos explicativos sobre los elementos usados en el diseño de la App)
+|  └──Componentes    (Contiene recursos explicativos sobre los elementos usados en el diseño de la App)
 |        ├──Componentes.png
 |        ├──PaletaYCOdigosDecolores.png
 |        └──Tipografia.png
