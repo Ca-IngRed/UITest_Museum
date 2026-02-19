@@ -4,8 +4,9 @@ y es parte del ejercicio de la materia de INGENIERÍA WEB I del pregrado de Inge
 
 La estructura del proyecto esta dispuesta de la siguiente forma
 
- main
-  /design/
-  /docs/
-  /wireframes/
-  Readme.md
+ main/
+ 
+ #/design/
+ #/docs/
+ #/wireframes/
+ #Readme.md
