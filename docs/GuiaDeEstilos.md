@@ -10,10 +10,9 @@
 
 - Color #5 : 1E676C
 
-![Codigo de Colores](docs/Componentes/Componentes.png)
+  ![Componentes](Componentes/Paleta_y_codigos_de_Colores.png)
 
 # Tipografia
-
 
 - Enlaces: Inter Italica 16px
 
@@ -29,3 +28,10 @@
 - Enlances_FuenteGrande: Inter Light_Italica 20px
 
 - Cuerpo_FuenteGrande:   Inter Regular 20px
+
+![Componentes](Componentes/Tipografia.png)
+
+
+# Componentes
+
+![Componentes](Componentes/Componentes.png)
