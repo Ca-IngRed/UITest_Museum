@@ -1,4 +1,5 @@
-Caso de estudio
+Caso de estudio 
+
 Un museo de la ciudad de Bogotá quiere llegar a más personas y necesita una aplicación que informe a la ciudadanía sobre todas las novedades en las galerías de arte, arqueología etc. Esto independientemente de sus dificultades puesto que se necesita que el mensaje llegue a mayor cantidad de personas posible. 
 El objetivo es que cada usuario entre a su cuenta y la aplicación tendrá una lista de galerías listas basadas en los intereses de dicho usuario.
 
