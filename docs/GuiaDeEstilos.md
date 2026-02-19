@@ -10,6 +10,8 @@
 
 - Color #5 : 1E676C
 
+![Codigo de Colores](docs/Componentes/Componentes.png)
+
 # Tipografia
 
 
