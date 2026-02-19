@@ -6,7 +6,10 @@ La estructura del proyecto esta dispuesta de la siguiente forma
 
  main/
  
- #/design/
- #/docs/
- #/wireframes/
- #Readme.md
+ design/
+ 
+  docs/
+  
+  wireframes/
+  
+  Readme.md
